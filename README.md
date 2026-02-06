@@ -32,7 +32,7 @@ A bar chart will appear showing the percentage of your final haul that is:
 
 ### Adjustable parameters
 
-At the top of the script:
+At the top of the script (with example parameters):
 
 ```python
 fruit_probs = [0.5, 0.3, 0.15, 0.04, 0.01] # must sum to 1
